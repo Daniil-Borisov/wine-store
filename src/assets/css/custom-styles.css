@@ -1,0 +1,72 @@
+.swiper-wrapper {
+  -webkit-transition-timing-function: linear !important;
+          transition-timing-function: linear !important;
+}
+
+.image span {
+  height: 100% !important;
+}
+
+.rsd__select-container-day, .rsd__select-container-month, .rsd__select-container-year {
+  width: 32%;
+}
+
+#rsd__select-year, #rsd__select-month, #rsd__select-day{
+  border-radius: 5px;
+}
+
+.rsd__select-container-day label, .rsd__select-container-month label, .rsd__select-container-year label{
+  color: #4b5563;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.rsd__react-select-datepicker {
+  width: 100%;
+  justify-content: space-between;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+input[type=number] {
+    -moz-appearance:textfield; /* Firefox */
+}
+
+.contenedor img {
+  transform:scale(1);
+  transition: all .7s;
+}
+
+.contenedor:hover img {
+  -webkit-transform:scale(1.3);
+  transform:scale(1.3);
+  
+}
+.contenedor {
+  overflow:hidden;
+  cursor: pointer;
+}
+
+.orderDetailsTable .rc-table-cell p.text-base{
+  text-align: inherit;
+}
+
+.react-select input[type='text']:focus{
+  border: none!important;
+      --tw-ring-color: none;
+}
+
+.floating-whatsapp-button{
+  bottom: 3.5rem !important;
+}
+
+@media (min-width: 1024px){
+  .floating-whatsapp-button{
+    bottom: 2rem !important
+  }
+}

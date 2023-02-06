@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>http://localhost:3000/aceite-de-trufa</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/aviso-legal</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/categorias</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/cestas-regalo</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/club-de-vinos</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/club-de-vins</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/condiciones-generales</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/conservas-gourmet</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/contact</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/ensaladas-gourmet</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/faqs</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/help</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/offers</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/politica-de-cookies</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/politica-de-privacidad</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/privacy</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/productos-gourmet-online-a-domicilio</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/profile-addresses</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/profile-gourmet-oro</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/profile-wine-subscription</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/que-es</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/quienes-somos</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/recovery-password</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/regalos-gourmet-online</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/terms</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/ca</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/ca/contact</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/ca/help</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/ca/offers</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/ca/privacy</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/ca/categorias</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+<url><loc>http://localhost:3000/ca/terms</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-06T17:44:58.441Z</lastmod></url>
+</urlset>

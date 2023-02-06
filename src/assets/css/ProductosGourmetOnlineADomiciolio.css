@@ -1,0 +1,313 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.mobile {
+  display: none;
+}
+
+#banner-top {
+  text-align: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("../productos-gourmet-online-a-domicilio/productos-gourmet-a-domicilio.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 40px;
+  color: white;
+}
+
+#banner-top h1 {
+  font-size: 4em;
+}
+
+#banner-top p {
+  width: 50%;
+  margin: 0 auto;
+}
+
+#categories {
+  text-align: center;
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin-bottom: 80px;
+}
+
+.row2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
+  margin-bottom: 80px;
+}
+
+.col {
+  width: 40%;
+  height: 300px;
+  /* background: url('https://via.placeholder.com/500x200.png'); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  margin-left: 20px;
+  margin-right: 20px;
+  transition: 0.6s;
+  transition-timing-function: ease;
+  border-radius: 4.5px;
+}
+
+.col a {
+  text-decoration: none;
+  color: #242c3b;
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.col a:hover h3 {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.col:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+#cat1 {
+  background: url("../productos-gourmet-online-a-domicilio/CATEGORIA CHARCUTERIA.jpg");
+}
+#cat2 {
+  background: url("../productos-gourmet-online-a-domicilio/CATEGORIA-FRESCOS.jpg");
+}
+#cat3 {
+  background: url("../productos-gourmet-online-a-domicilio/CATEGORIA-BODEGA.jpg");
+}
+#cat4 {
+  background: url("../productos-gourmet-online-a-domicilio/CATEGORIA CONSERVAS.jpg");
+}
+#cat5 {
+  background: url("../productos-gourmet-online-a-domicilio/CATEGORIA-LACTEOS.jpg");
+}
+#cat6 {
+  background: url("../productos-gourmet-online-a-domicilio/CATEGORIA-DULCES.jpg");
+}
+#cat7 {
+  background: url("../productos-gourmet-online-a-domicilio/CATEGORIA SNACKS.jpg");
+}
+#cat8 {
+  background: url("../productos-gourmet-online-a-domicilio/CATEGORIA-PASTA-Y-ARROZ.jpg");
+}
+#cat9 {
+  background: url("../productos-gourmet-online-a-domicilio/CATEGORIA-CONDIMENTOS.jpg");
+}
+#cat10 {
+  background: url("../productos-gourmet-online-a-domicilio/CATEGORIA ACEITES Y VINAGRES.jpg");
+}
+
+.col h3 {
+  font-size: 2em;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.5);
+  letter-spacing: 5px;
+  transition: 0.6s;
+  transition-timing-function: ease;
+}
+
+.banner img {
+  max-width: 100%;
+  width: auto;
+  margin-bottom: 120px;
+}
+
+.row2 h2 {
+  font-size: 3em;
+  margin: 0;
+}
+
+.col2 {
+  width: 40%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.col2 img {
+  width: auto;
+  max-width: 100%;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 40px;
+}
+
+.sidebar {
+  background: #e0e1e1;
+  float: right;
+  width: 300px;
+  text-align: center;
+  padding: 20px;
+}
+
+.sidebar input {
+  padding: 10px;
+}
+
+#title-sidebar {
+  font-size: 2em;
+  margin: 0;
+  text-align: center;
+}
+
+.content {
+  margin: auto;
+  width: 80%;
+  padding: 0 40px;
+  /* margin-left: 20%; */
+  /* margin-right: 50%; */
+}
+
+.content h2 {
+  font-size: 3em;
+  margin: 0;
+}
+
+.content p {
+  padding-left: 30px;
+}
+
+p {
+  text-align: justify;
+  font-size: 1.2em;
+  line-height: 35px;
+}
+
+@media only screen and (max-width: 900px) {
+  .mobile {
+    display: block;
+  }
+
+  .desktop {
+    display: none;
+  }
+
+  .sueps {
+    display: none;
+  }
+
+  .topheader {
+    background-position: 30% 53% !important;
+    height: 48px !important;
+  }
+
+  #banner-top h1 {
+    font-size: 2em;
+  }
+
+  .row2 h2 {
+    font-size: 2em;
+  }
+
+  .content h2 {
+    font-size: 2em;
+  }
+
+  #banner-top p {
+    font-size: 0.8em;
+    line-height: 25px;
+  }
+
+  #banner-top p {
+    width: 100%;
+  }
+
+  .row {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-bottom: 40px;
+  }
+
+  .col {
+    width: 90%;
+    margin: 0 auto;
+    height: 200px;
+  }
+
+  .row .col:nth-child(1) {
+    margin-bottom: 40px;
+  }
+
+  .banner {
+    position: relative;
+  }
+
+  .banner button {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+    padding: 20px 40px;
+    font-size: 1.5em;
+    width: 90%;
+  }
+
+  .row2 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .col2 {
+    width: 90%;
+    margin: auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .row2:nth-child(even) .col2:nth-child(1) {
+    -webkit-box-ordinal-group: 2;
+    -ms-flex-order: 1;
+    order: 1;
+  }
+
+  .content {
+    width: 90%;
+    margin: 0 auto;
+    padding: 0;
+  }
+}
